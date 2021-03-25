@@ -2,7 +2,6 @@ package controldespesas.view;
 
 import controldespesas.dao.UsuarioDAO;
 import controldespesas.domain.Usuario;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.sql.SQLException;
 import java.util.logging.Level;
@@ -34,7 +33,6 @@ import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import javafx.util.Duration;
-import javax.swing.JOptionPane;
 import org.controlsfx.control.Notifications;
 import org.controlsfx.control.textfield.TextFields;
 
