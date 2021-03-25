@@ -1,0 +1,278 @@
+.root{
+    -fx-font-size: 12pt;
+    -fx-background-color: #d3ffce;
+}
+
+#btnLogin{
+    -fx-background-color: #AB4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 50;
+    -fx-border-color: FFFFFF;
+    -fx-border-radius: 50;
+}
+#btnLogin:hover{
+    -fx-background-color: #610602;
+}
+#btnCadastro{
+    -fx-background-color: #6ea0fb;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 50;
+    -fx-border-color: FFFFFF;
+    -fx-border-radius: 50;
+}
+#btnCadastro:hover{
+    -fx-background-color: #04348c;
+}
+
+#btnEditar{
+    -fx-background-color: #f6ac37;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 50;
+    -fx-border-color: #000000;
+    -fx-border-radius: 50;
+}
+#btnEditar:hover{
+    -fx-background-color: #fa9e0c;    
+}
+
+#Cadastro_cancelar{
+    -fx-background-color: #ff4040;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 50;
+    -fx-border-color: #000000;
+    -fx-border-radius: 50;
+}
+#Cadastro_cancelar:hover{
+    -fx-background-color: #790606;
+}
+#Cadastro_salvar{
+    -fx-background-color: #088da5;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 50;
+    -fx-border-color: #000000;
+    -fx-border-radius: 50;
+}
+#Cadastro_salvar:hover{
+    -fx-background-color: #064955;
+}
+
+#tex{
+    -fx-font-size: 15pt;
+}
+
+#btnPesquisar{
+    -fx-background-color: #d3ffce;
+    -fx-background-radius: 20;
+    -fx-border-color: #000000;
+    -fx-border-radius: 20;
+}
+#btnPesquisar:hover{
+    -fx-background-color: #064955;
+}
+#repor{
+    -fx-background-color: #d3ffce;
+    -fx-background-radius: 20;
+    -fx-border-color: #000000;
+    -fx-border-radius: 20;
+}
+#repor:hover{
+    -fx-background-color: #064955;
+}
+
+#btnDados{
+    -fx-background-color: #5ac18e;;
+    -fx-background-radius: 20;
+    -fx-border-color: #000000;
+    -fx-border-radius: 20;
+}
+#btnDados:hover{
+    -fx-background-color: #064955;
+}
+
+#btnVoltar{
+    -fx-background-color: #d3ffce;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 50;
+    -fx-border-color: #000000;
+    -fx-border-radius: 50;
+
+}
+#btnVoltar:hover{
+    -fx-background-color: #064955;
+}
+
+#btnRecuperar{
+    -fx-background-color: #f6ac37;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 50;
+    -fx-border-color: #000000;
+    -fx-border-radius: 50;
+}
+#btnRecuperar:hover{
+    -fx-background-color: #fa9e0c;
+}
+#limpar{
+    -fx-background-color: #ff4040;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 50;
+    -fx-border-color: #000000;
+    -fx-border-radius: 50;
+}
+#limpar:hover{
+    -fx-background-color: #790606;
+}
+
+#texto{
+    -fx-font-size: 10pt;
+    -fx-text-fill: #ffa500/*F0AD4E*/;
+}
+#btn{
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 2;
+    -fx-background-color: #FFFFFF;
+}
+#dp{
+    -fx-background-radius: 5;
+    -fx-background-color: #3366ff;
+    -fx-text-fill: #FFFFFF;
+}
+#esquerda{
+    -fx-background-color: #585858;
+}
+#msg{
+    -fx-text-fill: white;
+}
+#dadosPessoais{
+    -fx-text-fill: white;
+    -fx-font-size: 10pt;
+}
+#filtros{
+    -fx-font-size: 10pt;
+}
+#nota{
+    -fx-font-size: 9pt;
+    -fx-text-fill: #ff7373;
+}
+#dPessoais{
+    -fx-background-color: #666666;
+    -fx-text-fill: #5ac18e;
+    -fx-font:  normal bolder 14px monospace;
+}
+#direita{
+    -fx-background-color: #383838;
+}
+#login{
+    -fx-text-fill: #FFFFFF;
+}
+#userField{
+    -fx-text-fill: #FFFFFF;
+}
+#passField{
+    -fx-text-fill: #FFFFFF;
+}
+#esqSenha{
+    -fx-text-fill: #6ea0fb;
+}
+.tab{
+    -fx-background-color: #666666;
+    -fx-pref-width: 230;
+    -fx-pref-height: 30;
+    -fx-border-width: 0;
+}
+.tab:hover{
+    -fx-background-color: #7fe5f0;
+}
+.tab .tab-label{
+    -fx-text-fill: #5ac18e;
+    -fx-alignment: center;
+}
+.tab-header-background{
+    -fx-background-color: #666666;
+
+}
+
+
+#btnEditar{
+    -fx-background-color: #ffd500;
+    -fx-text-fill: #000000;
+}
+#btnEditar:hover{
+    -fx-background-color: #ffa400;
+}
+
+#imagemPane{
+    -fx-background-color: #008080;
+    /*-fx-background-radius: 20;*/
+    -fx-text-aligment: center;
+}
+#perfilView{
+    -fx-background-radius: 50;
+}
+
+#baixo{
+    -fx-background-color: #d3ffce;
+}
+.menu-bar {
+    -fx-background-color: #088da5;
+}
+.context-menu {
+    -fx-background-color: derive(#1d1d1d,50%);
+}
+#remover{
+    -fx-background-color: #ff0000;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 50;
+}
+#remover:hover{
+    -fx-background-color:  #990000;
+}
+
+#adicionar{
+    -fx-background-radius: 50;
+    -fx-background-color: #00ffff;
+    -fx-text-fill: #000000;
+}
+#adicionar:hover{
+    -fx-background-color: #00aeff;
+}
+
+#info{
+    -fx-background-radius: 50;
+    -fx-background-color: #008080;
+    -fx-text-fill: #000000;
+}
+#info:hover{
+    -fx-background-color: #006080;
+}
+#voltar{
+    -fx-background-color: #6897bb;
+}
+#voltar:hover{
+
+}
+#btnSair{
+    /*-fx-padding: 5 22 5 22;*/   
+    /*-fx-border-color: #e2e2e2;
+    -fx-border-width: 2;*/
+    -fx-background-radius: 50;
+    -fx-background-color: #1d1d1d;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 12pt;
+    -fx-text-fill: #d8d8d8;/*
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;*/
+}
+#centro{
+}
+.menu-bar .label {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}
+
+.menu .left-container {
+    -fx-background-color: black;
+}
+#dadosPane{
+    -fx-background-color: #5ac18e;
+}
